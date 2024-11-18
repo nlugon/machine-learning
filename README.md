@@ -1,6 +1,6 @@
 # Machine Learning Programming
 
-This repository contains six projects as part of a machine learning course. Each project focuses on implementing a fundamental algorithm or technique in machine learning. The implementations were done in MATLAB and explore both theoretical foundations and practical applications.
+This repository contains six projects as part of a machine learning course. Each project focuses on implementing a fundamental algorithm or technique in machine learning. For this course, the implementations were evaluated in MATLAB, and they explore both theoretical foundations and practical applications.
 
 ## Project Summaries
 
